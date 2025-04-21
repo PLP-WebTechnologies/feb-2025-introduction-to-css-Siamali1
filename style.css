@@ -1,0 +1,30 @@
+/* Universal selector to set base font and color */
+body {
+    background-color: #f0f4f8;
+    color: #333;
+}
+h2 {
+    text-align: center;
+}
+
+/* ID selector */
+#kenya{
+    color: #2c3e50;
+    background-color: aqua;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+  .image img {
+      width: 500px;
+      height: 500px;
+      margin-left: 30%;
+      border-radius: 50%;
+  }
+/* Class selector  */
+ .london{
+     background-color: coral;
+     padding: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
